@@ -1,7 +1,7 @@
 package springjpa02;
 
-import jpabasic.reserve.domain.User;
-import jpabasic.reserve.domain.UserRepository;
+import springjpa02.domain.User;
+import springjpa02.domain.UserRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

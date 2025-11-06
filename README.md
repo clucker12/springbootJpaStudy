@@ -2,4 +2,7 @@
 ---
 ## ch1 Spring Data Jpa1
 - [Spring Data Jpa1](https://www.notion.so/Spring-Data-Jpa1-2a2b45b7ffa280278440c5360a827ad4)
-  
+
+## ch2 레포지터리 메서드 작성 규칙
+- [Spring Data JPA 레포지터리 메서드 작성 규칙](https://www.notion.so/Spring-Data-JPA-2a3b45b7ffa28014b5a6fc1be2182d90#2a3b45b7ffa28090b99cf11553bcc392)
+
