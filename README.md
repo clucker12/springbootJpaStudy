@@ -9,5 +9,6 @@
 ## ch3 정렬,페이징,@Query
 - [정렬,페이징,@Query](https://www.notion.so/Query-2a7b45b7ffa28098b76dd6fedfcc1a7b#2a7b45b7ffa28065b4b0eef46658b6db)
 
-
+## ch4 Specification을 이용한 검색 조건 지정
+- [Specification을 이용한 검색 조건 지정](https://www.notion.so/Specification-2a7b45b7ffa280febe03f646265cb6f4#2a7b45b7ffa28068b968c519ee566eab)
 
